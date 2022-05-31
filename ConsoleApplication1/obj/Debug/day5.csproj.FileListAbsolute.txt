@@ -1,0 +1,6 @@
+C:\Users\win10\Desktop\programing\day 4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\win10\Desktop\programing\day 4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\win10\Desktop\programing\day 4\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\win10\Desktop\programing\day 4\ConsoleApplication1\obj\Debug\day5.csprojResolveAssemblyReference.cache
+C:\Users\win10\Desktop\programing\day 4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\win10\Desktop\programing\day 4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

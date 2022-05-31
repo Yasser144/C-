@@ -1,0 +1,6 @@
+C:\Users\win10\Desktop\programing\day 4\day 4\bin\Debug\day 4.exe.config
+C:\Users\win10\Desktop\programing\day 4\day 4\obj\Debug\day 4.exe
+C:\Users\win10\Desktop\programing\day 4\day 4\obj\Debug\day 4.pdb
+C:\Users\win10\Desktop\programing\day 4\day 4\bin\Debug\day 4.exe
+C:\Users\win10\Desktop\programing\day 4\day 4\bin\Debug\day 4.pdb
+C:\Users\win10\Desktop\programing\day 4\day 4\obj\Debug\property.csprojResolveAssemblyReference.cache
