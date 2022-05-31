@@ -1,0 +1,6 @@
+C:\Users\win10\Desktop\programing\day 4\day8\bin\Debug\day8.exe.config
+C:\Users\win10\Desktop\programing\day 4\day8\bin\Debug\day8.exe
+C:\Users\win10\Desktop\programing\day 4\day8\bin\Debug\day8.pdb
+C:\Users\win10\Desktop\programing\day 4\day8\obj\Debug\day8.csprojResolveAssemblyReference.cache
+C:\Users\win10\Desktop\programing\day 4\day8\obj\Debug\day8.exe
+C:\Users\win10\Desktop\programing\day 4\day8\obj\Debug\day8.pdb

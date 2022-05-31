@@ -1,0 +1,6 @@
+C:\Users\win10\Desktop\programing\day 4\day7\bin\Debug\day7.exe.config
+C:\Users\win10\Desktop\programing\day 4\day7\bin\Debug\day7.exe
+C:\Users\win10\Desktop\programing\day 4\day7\bin\Debug\day7.pdb
+C:\Users\win10\Desktop\programing\day 4\day7\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\win10\Desktop\programing\day 4\day7\obj\Debug\day7.exe
+C:\Users\win10\Desktop\programing\day 4\day7\obj\Debug\day7.pdb
